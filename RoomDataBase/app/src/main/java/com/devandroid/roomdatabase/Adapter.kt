@@ -50,4 +50,5 @@ class Adapter(
         this.notes = notes
         notifyDataSetChanged()
     }
+    //hello
 }
